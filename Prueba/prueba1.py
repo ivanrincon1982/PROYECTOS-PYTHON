@@ -6,6 +6,3 @@ calificaciones = pd.DataFrame({'Estudiante': ['A', 'B', 'C'], 'Calificación': [
 # Calcular la calificación promedio
 promedio = calificaciones['Calificación'].mean()
 print("La calificación promedio es:", promedio)
-
-git branch
-
